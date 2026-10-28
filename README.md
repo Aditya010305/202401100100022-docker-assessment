@@ -1,4 +1,4 @@
-This course is a practical assessment of Docker & Container Security.
+Practical assessment of Docker & Container Security.
 
 ## Student Details
 - **Name:** Aditya Pratap Singh
